@@ -1,0 +1,14 @@
+# Dependencias de Node (se instalan solas en el servidor)
+node_modules/
+
+# Archivos de entorno (seguridad)
+.env
+
+# Logs y errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema operativo (basura)
+.DS_Store
+Thumbs.db
